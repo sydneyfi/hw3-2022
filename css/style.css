@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Verdana;
     background-color: #000000;
-    color: #ffffff;
+    color: #FFFFFF;
     margin-right: 20px;
     margin-left: 20px;
     margin-top: 20px;
@@ -23,14 +23,13 @@ p {
 img {
     width: 250px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: 10px dashed #ffffff;
+    margin: auto;
+    border: 10px dashed #FFFFFF;
 }
 div {
     min-height: 125px;
     padding: 20px;
-    border: 3px solid #ffffff;
+    border: 3px solid #FFFFFF;
 }
 .introduction {
     border-radius: 15px;
@@ -38,33 +37,33 @@ div {
     line-height: 2;
 }
 .red {
-    background-color: #ff0000;
+    background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
     border-top: none;
     border-right: none;
 }
 .blue {
-    background-color: #0000ff;
+    background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
     border-bottom: none;
     border-left: none;
-    border-top: 2px solid #ffffff;
-    border-right: 5px solid #ffffff;
+    border-top: 2px solid #FFFFFF;
+    border-right: 5px solid #FFFFFF;
 }
 .blue p, .blue h2 {
     color: #C4C4C4;
 }
 
 .yellow {
-    background-color: #ffff00;
+    background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #ffffff;
-    border-left: 5px solid #ffffff;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
     border-top: none;
     border-right: none;
 }
@@ -77,12 +76,12 @@ div {
     margin-right: 50px;
     border-bottom: none;
     border-left: none;
-    border-top: 2px solid #ffffff;
-    border-right: 5px solid #ffffff;
+    border-top: 2px solid #FFFFFF;
+    border-right: 5px solid #FFFFFF;
 }
 footer {
-    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-    border: 5px solid #ffffff;
+    background: linear-gradient(90deg, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
+    border: 5px solid #FFFFFF;
 }
 footer p {
     text-align: right;
